@@ -1,0 +1,1 @@
+const someConstant =  55;
