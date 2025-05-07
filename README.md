@@ -16,6 +16,6 @@ git add
 #### How add image
 
 <div>
-  <img src='https://placeholder-image' width=500 />
-  <img src='https://placeholder-image' width=500 />
+  <img src='https://github.com/user-attachments/assets/4bb585eb-2ef4-41aa-99d1-a6ff2f2c3058' width=500 />
+  <img src='https://github.com/user-attachments/assets/bc3073b3-f57a-4d4d-9062-f813ce6a1433' width=400 />
 </div>
